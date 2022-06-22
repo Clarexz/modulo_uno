@@ -1,5 +1,5 @@
 body {
-	background-color: #e3d5c6;
+	background-color: #fffbf7;
 }
 
 h1 {
@@ -79,4 +79,38 @@ li {
 .main {
 	margin-top: 140px;
 	text-align: center;
+}
+
+.button_green {
+	color: white;
+	background-color: #67b54b;
+	padding: 12px 14px;
+	border: 0;
+	border-radius: 5px;
+}
+
+/*Primer section*/
+.promo {
+	display: flex;
+	width: 70%;
+	margin: 100px auto;
+	align-items: center;
+}
+.flex_video {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+/**Article**/
+.publish {
+	margin-left: 30px;
+}
+
+.parrafos {
+	color: #343434;
+}
+
+.subtitulos {
+	color: #025157;
 }
